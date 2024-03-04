@@ -91,16 +91,16 @@ cv2.destroyAllWindows()
 ```
 ## Output
 ### i) Write the frame as JPG image
-![1](https://github.com/Janarthanan2/Image_Acqusition-_using_Web_Camera/assets/119393515/3800b549-d025-46b3-b391-07e389b900b0)
+<img src="https://github.com/Janarthanan2/Image_Acqusition-_using_Web_Camera/assets/119393515/3800b549-d025-46b3-b391-07e389b900b0" width=50%>
 
-### ii) Display the video
-![2](https://github.com/Janarthanan2/Image_Acqusition-_using_Web_Camera/assets/119393515/0ee76675-51ab-4ddd-a1ee-2a59c1193571)
+### ii) Display the video'
+<img src="https://github.com/Janarthanan2/Image_Acqusition-_using_Web_Camera/assets/119393515/0ee76675-51ab-4ddd-a1ee-2a59c1193571" width=50%>
 
 ### iii) Display the video by resizing the window
-![3](https://github.com/Janarthanan2/Image_Acqusition-_using_Web_Camera/assets/119393515/a1cfc4d4-dd44-4691-9992-2035fbb0affd)
+<img src="https://github.com/Janarthanan2/Image_Acqusition-_using_Web_Camera/assets/119393515/a1cfc4d4-dd44-4691-9992-2035fbb0affd" width=50%>
 
 ### iv) Rotate and display the video
-![4](https://github.com/Janarthanan2/Image_Acqusition-_using_Web_Camera/assets/119393515/42ec68d0-8c4a-4f07-8eba-ff63354c7b95)
+<img src="https://github.com/Janarthanan2/Image_Acqusition-_using_Web_Camera/assets/119393515/42ec68d0-8c4a-4f07-8eba-ff63354c7b95" width=50%>
 
 ## Result:
 Thus the image is accessed from webcamera and displayed using openCV.
