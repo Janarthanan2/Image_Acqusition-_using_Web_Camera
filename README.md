@@ -24,7 +24,7 @@ Display processed frames on the screen using cv2.imshow(), and continuously chec
 ### Developed By: Janarthanan V K
 ### Register No: 212222230051
 ## i) Write the frame as JPG file
-```
+```python
 import cv2
 viedoCaptureObject=cv2.VideoCapture(0)
 while(True):
@@ -35,7 +35,7 @@ viedoCaptureObject.release()
 cv2.destroyAllWindows()
 ```
 ## ii) Display the video
-```
+```python
 import numpy as np
 import cv2
 cap=cv2.VideoCapture(0)
@@ -48,7 +48,7 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 ## iii) Display the video by resizing the window
-```
+```python
 import numpy as np
 import cv2
 cap=cv2.VideoCapture(0)
@@ -69,7 +69,7 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 ## iv) Rotate and display the video
-```
+```python
 import numpy as np
 import cv2
 cap=cv2.VideoCapture(0)
